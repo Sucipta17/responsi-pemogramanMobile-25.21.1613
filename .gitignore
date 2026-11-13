@@ -1,0 +1,14 @@
+# Rahasia
+.env
+
+# Build & tool
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+.DS_Store
+android/local.properties
